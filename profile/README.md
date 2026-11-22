@@ -1,8 +1,8 @@
-# Prisma Holdings
+# Arbor Holdings
 
 ### Building technology. Creating possibilities.
 
-**Prisma Holdings** is a software development company focused on designing, building, and delivering digital solutions that help businesses and people solve real-world problems.
+**Arbor Holdings** is a software development company focused on designing, building, and delivering digital solutions that help businesses and people solve real-world problems.
 
 We believe technology should be practical, accessible, and built with purpose.
 
@@ -48,7 +48,7 @@ For business inquiries and collaborations, please contact us through our officia
 ---
 
 <p align="center">
-  **Prisma Holdings**
+  **Arbor Holdings**
   <br/>
   Building technology. Creating possibilities.
 </p>
